@@ -1,0 +1,9 @@
+2020-09-15 21:20:19 [main] INFO  [com.alibaba.dubbo.common.logger.LoggerFactory] - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2020-09-15 21:20:42 [DubboShutdownHook] INFO  [com.alibaba.dubbo.config.AbstractConfig] -  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+2020-09-15 21:20:42 [DubboShutdownHook] INFO  [com.alibaba.dubbo.registry.support.AbstractRegistryFactory] -  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+2020-09-15 21:21:09 [main] INFO  [com.alibaba.dubbo.common.logger.LoggerFactory] - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2020-09-15 21:21:49 [DubboShutdownHook] INFO  [com.alibaba.dubbo.config.AbstractConfig] -  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+2020-09-15 21:21:49 [DubboShutdownHook] INFO  [com.alibaba.dubbo.registry.support.AbstractRegistryFactory] -  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+2020-09-15 21:22:18 [main] INFO  [com.alibaba.dubbo.common.logger.LoggerFactory] - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2020-09-15 21:23:05 [DubboShutdownHook] INFO  [com.alibaba.dubbo.config.AbstractConfig] -  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+2020-09-15 21:23:05 [DubboShutdownHook] INFO  [com.alibaba.dubbo.registry.support.AbstractRegistryFactory] -  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
